@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace TestErrors
 {
-    class Program
+    public class Solution
     {
-        static void Main(string[] args)
+        public static void Main(String[] input)
         {
+            /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
+            string s = Console.ReadLine();
         }
     }
+
 }
